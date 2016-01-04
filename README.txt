@@ -1,5 +1,5 @@
-Mark Tawara	Ryan Nguyen
-#811666686	#811221139
+Mark Tawara	& Ryan Nguyen Collaboration
+
 
 To run: Type "./p3"
 
