@@ -1,5 +1,5 @@
-//Ryan Nguyen
-//ryan.nguyen25@uga.edu
+//Ryan Nguyen & Mark Tawara
+//ryan.nguyen25@uga.edu - mht35915@uga.edu
 //lab13
 
 #include <iostream>
